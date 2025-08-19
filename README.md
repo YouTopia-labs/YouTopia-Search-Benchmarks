@@ -10,7 +10,7 @@ Our system, **YouTopia Search**, is designed to provide high-quality, readable,
 
 The evaluation is based on a predetermined benchmark **question set**. The performance metrics are an average of the results from this set. We focused on two main criteria:
 
-- **Answer Quality**: This measures the accuracy and reproducibility of the information provided in the answer.
+- **Answer Quality**: This measures How good and complete were the answers?
   
 - **Readability, Structure, and Comprehensiveness**: This metric evaluates how easy the answer is to read, whether it's well-organized, and if it covers the topic thoroughly.
   
